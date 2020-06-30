@@ -18,6 +18,7 @@
         android:background="#ffcc0000">
 
         <TextView
+            android:id="@+id/delete"
             android:layout_width="70dp"
             android:layout_height="match_parent"
             android:gravity="center"
